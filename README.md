@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LesVu
 - 👀 I’m interested in Rust, C, C++, Kotlin
-- 🌱 I’m currently learning none. I need to study for exam.😥
-- 💞️ I’m looking to collaborate on none
+- 🌱 I need to study for exam.😥
+
 - 📫 Reach me by dm me.
 
 <!---
