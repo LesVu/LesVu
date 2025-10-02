@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LesVu
-- 👀 I’m interested in Rust, C, C++, Kotlin
-- 🌱 I need to study for exam.😥
-
-- 📫 Reach me by dm me.
+- 👀 I’m interested in Rust, C, Kotlin, Javascript, Typescript, Nix.
+- 🌱 I need to study in university.😥
+- 📫 Try not to reach me.
 
 <!---
 LesVu/LesVu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
